@@ -1,0 +1,20 @@
+Algunas de las fotos utilizadas son de internet: pinterest, página oficial, etc.
+Otras fotos tuve que editarlas en photoshop como el logo, 
+son imágenes reutilizadas de mi parcial de Comunicación Visual.
+
+Las tipografías las tuve que importar de google para lograr una similitud 
+con la página oficial y el font del logo.
+
+Hay estilos que utilice que investigue por internet.
+
+Los botones tienen un ID para poder llevarlos a distintos lados de la página. 
+
+Además los iconos los encontré de fontawesome
+
+Para agregar los reels en mi web hice esto:
+
+Abriendo Instagram.com 
+Haz clic en el reel que deseas incrustar
+Haga clic en los tres puntos. (...) y aparecerá una ventana emergente.
+Haga clic en la opción incrustar y cópiela y péguela en su sitio web.
+
