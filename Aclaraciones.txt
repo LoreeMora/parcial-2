@@ -18,3 +18,17 @@ Haz clic en el reel que deseas incrustar
 Haga clic en los tres puntos. (...) y aparecerá una ventana emergente.
 Haga clic en la opción incrustar y cópiela y péguela en su sitio web.
 
+CAMBIOS 3/8
+
+Creacion de nuevos archivos CSS para responsividad:
+media-small = mobile
+media-medium = tablets
+media-large = monitor mediano/grande
+meida-xlarge = TV
+
+ACLARACION: Lo hice en archivos separados para mantener la integridad y la modularidad del proyecto, y asi lograr un orden mucho mas prolijo para futuras modificaciones y nuevos 
+desarrollos.
+
+MODIFICACIONES EN HTML:
+Se agrego la ruta de los nuevos archivos CSS para hacer el muestreo de las nuevas adaptaciones.
+
