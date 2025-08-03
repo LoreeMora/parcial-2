@@ -1,3 +1,4 @@
+
 .shop-container {
     display: flex;
     justify-content: space-around;
@@ -13,7 +14,7 @@
     padding: 20px;
     width: 300px;
     text-align: center;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .producto img {
@@ -61,70 +62,4 @@
 
 .boton-agregar:hover {
     background-color: #d48d84;
-}
-
-@media (max-width: 768px) {
-    .shop-container {
-        flex-direction: column;
-        align-items: center;
-        padding: 20px;
-        gap: 20px;
-    }
-
-    .producto {
-        width: 90%;
-        padding: 15px;
-    }
-
-    .producto h3 {
-        font-size: 16px;
-    }
-
-    .shade {
-        font-size: 13px;
-    }
-
-    .boton-agregar {
-        width: 100%;
-        padding: 10px;
-    }
-}
-
-@media (max-width: 480px) {
-    .shop-container {
-        padding: 15px;
-        gap: 15px;
-    }
-
-    .producto {
-        width: 100%;
-        padding: 10px;
-    }
-
-    .producto img {
-        margin-bottom: 10px;
-    }
-
-    .producto h3 {
-        font-size: 14px;
-    }
-
-    .shade {
-        font-size: 12px;
-    }
-
-    .colores {
-        gap: 6px;
-        margin-bottom: 10px;
-    }
-
-    .color {
-        width: 18px;
-        height: 18px;
-    }
-
-    .boton-agregar {
-        font-size: 14px;
-        padding: 8px;
-    }
 }
